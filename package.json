@@ -1,0 +1,31 @@
+{
+  "name": "isni-utils",
+  "version": "1.0.0",
+  "description": "Validate and generate ISNI (International Standard Name Identifier) codes",
+  "license": "MIT",
+  "author": "Olli Hiekkaranta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ohiekkar/isni-utils.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "isni",
+    "validator",
+    "validation",
+    "international",
+    "standard",
+    "name",
+    "identifier"
+  ],
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^10.0.0"
+  }
+}
