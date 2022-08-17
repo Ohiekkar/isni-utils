@@ -1,6 +1,6 @@
 {
   "name": "isni-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate and generate ISNI (International Standard Name Identifier) codes",
   "license": "MIT",
   "author": "Olli Hiekkaranta",
@@ -27,5 +27,8 @@
   "devDependencies": {
     "assert": "^2.0.0",
     "mocha": "^10.0.0"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
